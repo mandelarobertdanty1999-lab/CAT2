@@ -22,10 +22,22 @@ body{
     margin: 0;
     padding: 0;
 }     
-.tours{
+.tour-container{
+    background-color: #a38484;
     display: inline-flex;
     flex-wrap: wrap;
     justify-content: space-around;
     padding: 20px;
     flex-direction: row;
 }  
+.tour{
+    align-items: center;
+    background-color: #f0f0f0;
+    border: 5px solid #898beb;
+    border-radius: 5px;
+    width: 18rem;
+    margin: 5px;
+    padding: 10px;
+    
+}
+
