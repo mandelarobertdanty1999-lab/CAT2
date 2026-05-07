@@ -21,4 +21,10 @@ body{
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-}           
+}     
+.tours{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 20px;
+}  
