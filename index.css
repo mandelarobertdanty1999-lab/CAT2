@@ -28,7 +28,7 @@ body{
     flex-wrap: wrap;
     justify-content: space-around;
     padding: 20px;
-    flex-direction: row;
+    gap: 20px;
 }  
 .tour{
     align-items: center;
